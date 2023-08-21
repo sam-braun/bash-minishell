@@ -1,6 +1,6 @@
 # Bash Minishell
 
-Bash shell that supports changing directories, exec-ing commands, and handling signals. This was created by myself and Uri Korin.
+Bash shell that supports changing directories, exec-ing commands, and handling signals. This was created by myself and Uri Korin in March-April 2023.
 
 ## Usage
 
