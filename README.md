@@ -1,6 +1,6 @@
 # Bash Minishell
 
-Bash shell that supports changing directories, exec-ing commands, and handling signals.
+Unix-like bash shell that supports changing directories, exec-ing commands, and handling signals.
 
 ## Usage
 
